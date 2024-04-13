@@ -1,1 +1,1 @@
-# blog-pytorch-jax
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/pytorch-jax/) on PyTorch and JAX. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
